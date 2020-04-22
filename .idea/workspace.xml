@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f188a724-6227-42a3-addf-41882d6bcb79" name="Default Changelist" comment="" />
+    <list default="true" id="f188a724-6227-42a3-addf-41882d6bcb79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +43,9 @@
       <recent name="March2020.Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Self">
-    <configuration name="Replit156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="March2020.ZZZ_Replits.Replit156" />
+  <component name="RunManager" selected="Application.ElifOrhan">
+    <configuration name="ElifOrhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March2020.ZZZ_Replits.ElifOrhan" />
       <module name="CyberTek" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElifOrhan" />
         <item itemvalue="Application.Self" />
         <item itemvalue="Application.Warm_Up1_Unique" />
         <item itemvalue="Application.Warm_Up3_Frequency" />
         <item itemvalue="Application.Replit166" />
-        <item itemvalue="Application.Replit156" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +130,19 @@
       <option name="presentableId" value="Default" />
       <updated>1583720402760</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testsimdi">
+      <created>1587576125610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576125610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testsimdi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testsimdi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="88" key="#Notifications" timestamp="1585016146928">
@@ -155,6 +169,10 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="479" y="324" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.800@0.23.1440.800" timestamp="1585349599543" />
+    <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1587576125220">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="351" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587576125220" />
     <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1587570020692">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -259,6 +277,10 @@
     <state width="1398" height="302" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586621386469" />
     <state width="1398" height="302" key="GridCell.Tab.1.right/1440.23.1280.1001/0.23.1440.797@0.23.1440.797" timestamp="1586643969088" />
     <state width="1398" height="253" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1585953379656" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587576131488">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587576131488" />
     <state x="376" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1587573123022">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
