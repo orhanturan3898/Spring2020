@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f188a724-6227-42a3-addf-41882d6bcb79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/BooleanAndChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/BooleanAndChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/Boolean_Char_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/Boolean_Char_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/ContinueVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/ContinueVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/Java1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/Java1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day1_to_4_JavaBasics/Tests1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/Day1_to_4_JavaBasics/Tests1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/Day26_Methods_Overloading/AnotherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/March2020/adhjabd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spring2020New/adhjabd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +42,40 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring2020New/geliyor" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Spring2020New" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Spring2020New/geliyor" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="March2020.Resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Spring2020New" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ElifOrhan">
+  <component name="RunManager" selected="Application.testclass1">
+    <configuration name="AnotherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March2020.Day26_Methods_Overloading.AnotherTest" />
+      <module name="CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="March2020.Day26_Methods_Overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ElifOrhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="March2020.ZZZ_Replits.ElifOrhan" />
       <module name="CyberTek" />
@@ -57,8 +89,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit166" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="March2020.ZZZ_Replits.Replit166" />
+    <configuration name="Orhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March2020.Orhan" />
+      <module name="CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spring2020New.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March2020.ZZZ_Replits.aaa111" />
       <module name="CyberTek" />
       <extension name="coverage">
         <pattern>
@@ -70,38 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="March2020.Self" />
+    <configuration name="testclass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March2020.Test1.testclass1" />
       <module name="CyberTek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="March2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Warm_Up1_Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="March2020.Day19_Arrays.Warm_Up1_Unique" />
-      <module name="CyberTek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="March2020.Day19_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Warm_Up3_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="March2020.Day25_Methods.Warm_Up3_Frequency" />
-      <module name="CyberTek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="March2020.Day25_Methods.*" />
+          <option name="PATTERN" value="March2020.Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testclass1" />
+        <item itemvalue="Application.AnotherTest" />
+        <item itemvalue="Application.Orhan" />
+        <item itemvalue="Application.aaa111" />
         <item itemvalue="Application.ElifOrhan" />
-        <item itemvalue="Application.Self" />
-        <item itemvalue="Application.Warm_Up1_Unique" />
-        <item itemvalue="Application.Warm_Up3_Frequency" />
-        <item itemvalue="Application.Replit166" />
       </list>
     </recent_temporary>
   </component>
@@ -137,12 +156,86 @@
       <option name="project" value="LOCAL" />
       <updated>1587576125610</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testsimdi">
+      <created>1587576300171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576300171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testsimdi">
+      <created>1587576356739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576356739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Testsimdi">
+      <created>1587576428143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576428144</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aAAAAAAAA">
+      <created>1587576515917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576515917</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aaaa1111111">
+      <created>1587576765747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576765747</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aaaa1111111">
+      <created>1587576847964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587576847964</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Orhan">
+      <created>1587577030308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587577030308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Orhan">
+      <created>1587577047043</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587577047043</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deneme1">
+      <created>1587577277470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587577277470</updated>
+    </task>
+    <task id="LOCAL-00011" summary="deneme1">
+      <created>1587577304005</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587577304005</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testsimdi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testsimdi" />
+    <MESSAGE value="aAAAAAAAA" />
+    <MESSAGE value="aaaa1111111" />
+    <MESSAGE value="Orhan" />
+    <MESSAGE value="deneme1" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="88" key="#Notifications" timestamp="1585016146928">
@@ -157,10 +250,23 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="445" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1587573145833" />
-    <state x="359" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584136868736">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587578759228">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1587578759228" />
+    <state x="457" y="266" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587578748611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="266" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1587578748611" />
+    <state x="359" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587578946351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="359" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1587578946351" />
     <state x="359" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.797@0.23.1440.797" timestamp="1584136868736" />
+    <state x="492" y="315" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587578776757">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="315" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1587578776757" />
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587156062465">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -169,14 +275,14 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="479" y="324" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.800@0.23.1440.800" timestamp="1585349599543" />
-    <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1587576299967">
+    <state x="351" y="38" key="CommitChangelistDialog2" timestamp="1587579164369">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="351" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587576299967" />
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1587570020692">
+    <state x="351" y="38" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587579164369" />
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1587577946794">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587570020692" />
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587577946794" />
     <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587400772343" />
     <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1585922652780" />
     <state width="1398" height="168" key="GridCell.Tab.0.bottom/1440.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1586652167929" />
@@ -190,10 +296,10 @@
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1586047502670" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586042870415" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/1440.23.1920.977/0.23.1440.877@0.23.1440.877" timestamp="1585436264383" />
-    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1587570020691">
+    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1587577946792">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587570020691" />
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587577946792" />
     <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587400772340" />
     <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1585922652779" />
     <state width="1398" height="168" key="GridCell.Tab.0.center/1440.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1586652167925" />
@@ -207,10 +313,10 @@
     <state width="1398" height="231" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1586047502669" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586042870413" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/1440.23.1920.977/0.23.1440.877@0.23.1440.877" timestamp="1585436264380" />
-    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1587570020690">
+    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1587577946791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587570020690" />
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587577946791" />
     <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587400772339" />
     <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1585922652779" />
     <state width="1398" height="168" key="GridCell.Tab.0.left/1440.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1586652167923" />
@@ -224,10 +330,10 @@
     <state width="1398" height="231" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1586047502668" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586042870412" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/1440.23.1920.977/0.23.1440.877@0.23.1440.877" timestamp="1585436264379" />
-    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1587570020691">
+    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1587577946793">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587570020691" />
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587577946793" />
     <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587400772341" />
     <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1585922652780" />
     <state width="1398" height="168" key="GridCell.Tab.0.right/1440.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1586652167927" />
@@ -277,10 +383,22 @@
     <state width="1398" height="302" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586621386469" />
     <state width="1398" height="302" key="GridCell.Tab.1.right/1440.23.1280.1001/0.23.1440.797@0.23.1440.797" timestamp="1586643969088" />
     <state width="1398" height="253" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1585953379656" />
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587576307396">
+    <state x="144" y="79" key="MergeDialog" timestamp="1587577324615">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587576307396" />
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1587577324615" />
+    <state x="433" y="174" key="MultipleFileMergeDialog" timestamp="1587577326256">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="174" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1587577326256" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587577306528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587577306528" />
+    <state x="515" y="236" key="chooseDestDirectoryDialog" timestamp="1587577850347">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="515" y="236" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1587577850347" />
     <state x="376" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1587573123022">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

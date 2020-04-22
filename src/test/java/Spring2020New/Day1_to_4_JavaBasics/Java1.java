@@ -1,4 +1,4 @@
-package March2020.Day1_to_4_JavaBasics;
+package Spring2020New.Day1_to_4_JavaBasics;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
